@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <script type="module">import { injectIntoGlobalHook } from "/@react-refresh";
+injectIntoGlobalHook(window);
+window.$RefreshReg$ = () => {};
+window.$RefreshSig$ = () => (type) => type;</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0d2039" />
+    <meta name="description" content="Reformas e móveis planejados com a Inove Interiores. Conheça nossos serviços e projetos e solicite seu orçamento diretamente pelo WhatsApp." />
+    <meta name="keywords" content="arquitetura, reformas, móveis planejados, projetos personalizados, design de interiores, marcenaria sob medida" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:site_name" content="Inove Interiores" />
+    <meta property="og:title" content="Inove Interiores | Reformas e Móveis Planejados" />
+    <meta property="og:description" content="Reformas e móveis planejados com a Inove Interiores. Conheça nossos serviços e projetos e solicite seu orçamento diretamente pelo WhatsApp." />
+    <meta property="og:image" content="https://files.manuscdn.com/user_upload_by_module/session_file/310519663630143023/bXYrUvwhsldVFGkA.webp" />
+    <meta property="og:image:alt" content="Fotografia real de uma cozinha com marcenaria escura, bancada clara e iluminação linear." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Inove Interiores | Reformas e Móveis Planejados" />
+    <meta name="twitter:description" content="Reformas e móveis planejados com a Inove Interiores. Conheça nossos serviços e projetos e solicite seu orçamento diretamente pelo WhatsApp." />
+    <meta name="twitter:image" content="https://files.manuscdn.com/user_upload_by_module/session_file/310519663630143023/bXYrUvwhsldVFGkA.webp" />
+    <title>Inove Interiores | Reformas e Móveis Planejados</title>
+    <link rel="preload" href="/replica-assets/cormorant-garamond-latin_0448a9ce.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/replica-assets/manrope-latin_1cc59cd0.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="icon" type="image/svg+xml" href="/brand-mark.svg" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx?t=1792340684466"></script>
+  </body>
+</html>
