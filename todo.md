@@ -1,0 +1,13 @@
+- [x] Gerar seis fotografias de pragas em alta qualidade para os cartões: formiga, barata, rato, aranha, escorpião e percevejo.
+- [x] Substituir o cartão de mosquitos por escorpiões, com texto específico de prevenção e controlo.
+- [x] Aplicar as fotografias nos cartões com tratamento visual consistente e responsivo.
+- [x] Redesenhar o botão de conversão com destaque luminoso animado, foco acessível e redução de movimento respeitada.
+- [x] Validar a secção de pragas em desktop e mobile e guardar a nova versão.
+- [x] Corrigir a rota base do GitHub Pages para a home não cair na página 404 no subcaminho do repositório.
+- [x] Reconhecer explicitamente o prefixo /003-PRAGLY-SITE/ no router para garantir o carregamento da home publicada.
+- [x] Confirmar a conexão GitHub e a conta proprietária aurumscale-beep.
+- [x] Criar o repositório público 003-PRAGLY-SITE.
+- [x] Exportar o build estático e os recursos visuais para a pasta docs.
+- [x] Configurar o GitHub Pages em main:/docs.
+- [x] Recuperar a sessão My Browser e concluir a activação autenticada.
+- [x] Validar o URL público e entregar o link final.
