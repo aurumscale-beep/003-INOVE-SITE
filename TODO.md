@@ -17,4 +17,4 @@
 ## Qualidade
 - [x] Incluir microinterações, estados de foco/hover, suporte a prefers-reduced-motion e meta/manifesto de rotas.
 - [x] Validar build, servidor de preview, rota `/manus-routes.json` e diagnósticos.
-- [ ] Sincronizar a versão final no repositório GitHub selecionado.
+- [x] Sincronizar a versão final no repositório GitHub selecionado.
